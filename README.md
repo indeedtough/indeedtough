@@ -1,4 +1,4 @@
-# Hey, I'm AcePolitician
+# 👋 Hey, I'm AcePolitician
 
 ## Biography
 I generally code in Java, but I sometimes code in Lua, Python or C++
