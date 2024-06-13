@@ -6,4 +6,4 @@ I generally code in Rust and Lua
 ##
 
 ### Additional Links
-[Gists](https://gist.github.com/toughdev)
+[Gists](https://gist.github.com/indeedtough)
